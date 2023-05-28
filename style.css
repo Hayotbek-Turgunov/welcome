@@ -1,0 +1,33 @@
+body{
+  background-color: #4F696AFF;
+}
+.container{
+  margin-top: 60px;
+}
+.container .card img{
+  width: 100px;
+  height: 200px;
+}
+.card {
+  width: 400px;
+  height: 550px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  text-align: center;
+  background-color: #102020FF;
+
+}
+.card h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  color: #fff;
+}
+.card p {
+  color: #FFF;
+}
+.card h3{
+  font-family:  'Times New Roman', Times, serif ;
+  color: #FFF;
+  font-weight: 200;
+}
